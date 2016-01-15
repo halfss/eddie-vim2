@@ -23,7 +23,7 @@ set splitright                        " always open vertical split window in the
 set splitbelow                        " always open horizontal split window below
 set scrolloff=4                       " start scrolling when n lines away from margins
 set switchbuf=useopen
-set showtabline=2                     " always show tab
+set showtabline=4                     " always show tab
 set wildmode=longest,list             " use emacs-style tab completion when selecting files, etc
 set wildmenu                          " make tab completion for files/buffers act like bash
 set key=			                        " disable encryption
